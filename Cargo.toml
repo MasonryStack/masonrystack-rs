@@ -1,0 +1,3 @@
+[workspace]
+members = ["masonrystack", "masonrystack-sdk"]
+resolver = "2"

@@ -1,0 +1,15 @@
+[package]
+name = "masonrystack"
+version = "0.0.1"
+edition = "2024"
+description = "Crate for MasonryStack platform"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/your-org/masonrystack"
+readme = "README.md"
+keywords = ["masonrystack", "platform"]
+categories = ["development-tools"]
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]
